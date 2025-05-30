@@ -1,3 +1,3 @@
 # simplismart-qa-assignment
 
-Change done
+Conflict check
