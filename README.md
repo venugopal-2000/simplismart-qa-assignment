@@ -1,2 +1,3 @@
 # simplismart-qa-assignment
-Conflict check
+
+This line was edited in the main branch.
